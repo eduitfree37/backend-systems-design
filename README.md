@@ -1,0 +1,5 @@
+# Backend Systems Design
+
+This comprehensive course offers in-depth insights into system design principles, addressing key challenges and real-world applications. Participants gain essential guidance on the strategic implementation of system designs, including important factors influencing design choices and crucial considerations. The curriculum features compelling case studies from industry giants such as Amazon, Netflix, Google, and Uber, while delving into widely adopted design models like monolithic, microservices, and serverless architecture. By the end of the course, learners will be empowered with the expertise and assurance to make informed decisions and effectively implement the most suitable system design for specific project needs. 
+
+[Detail](https://eduitfree.com/courses/backend-systems-design)
